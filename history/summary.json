@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tyziniec",
     "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptime": "92.31%",
+    "uptimeDay": "92.31%",
+    "uptimeWeek": "92.31%",
+    "uptimeMonth": "92.31%",
+    "uptimeYear": "92.31%",
     "time": 151,
     "timeDay": 151,
     "timeWeek": 151,
     "timeMonth": 151,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2024-11-01": 0
+      "2024-11-01": 7
     }
   },
   {

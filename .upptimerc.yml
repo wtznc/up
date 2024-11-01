@@ -2,12 +2,12 @@ owner: wtznc # Your GitHub organization or username, where this repository lives
 repo: up # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Tyziniec
+    url: https://tyziniec.com
+  - name: Pi-hole
+    url: https://xdd.tyziniec.com
+  - name: Dashboard
+    url: https://dash.tyziniec.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

@@ -6,8 +6,6 @@ sites:
     url: https://tyziniec.com
   - name: Pi-hole
     url: https://xdd.tyziniec.com
-  - name: Dashboard
-    url: https://dash.tyziniec.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

@@ -2,7 +2,7 @@ owner: wtznc # Your GitHub organization or username, where this repository lives
 repo: up # The name of this repository
 
 sites:
-  - name: Tyziniec
+  - name: Tyziniec.com
     url: $SERVICE_2
   - name: Pi-hole
     url: $SERVICE_1

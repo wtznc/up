@@ -1,23 +1,21 @@
 [
   {
-    "name": "Tyziniec",
+    "name": "Tyziniec.com",
     "url": "$SERVICE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "tyziniec",
-    "status": "down",
-    "uptime": "92.31%",
-    "uptimeDay": "92.31%",
-    "uptimeWeek": "92.31%",
-    "uptimeMonth": "92.31%",
-    "uptimeYear": "92.31%",
-    "time": 151,
-    "timeDay": 151,
-    "timeWeek": 151,
-    "timeMonth": 151,
-    "timeYear": 151,
-    "dailyMinutesDown": {
-      "2024-11-01": 7
-    }
+    "slug": "tyziniec-com",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 268,
+    "timeDay": 268,
+    "timeWeek": 268,
+    "timeMonth": 268,
+    "timeYear": 268,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pi-hole",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 585,
-    "timeDay": 585,
-    "timeWeek": 585,
-    "timeMonth": 585,
-    "timeYear": 585,
+    "time": 622,
+    "timeDay": 622,
+    "timeWeek": 622,
+    "timeMonth": 622,
+    "timeYear": 622,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 179,
-    "timeDay": 179,
-    "timeWeek": 179,
-    "timeMonth": 179,
-    "timeYear": 179,
+    "time": 174,
+    "timeDay": 174,
+    "timeWeek": 174,
+    "timeMonth": 174,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   }
 ]

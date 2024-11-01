@@ -7,7 +7,7 @@ sites:
   - name: Pi-hole
     url: $SERVICE_1
   - name: Uptime
-    url: SERVICE_3
+    url: $SERVICE_3
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

@@ -22,18 +22,20 @@
     "url": "$SERVICE_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pi-hole",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 728,
-    "timeDay": 728,
-    "timeWeek": 728,
-    "timeMonth": 728,
-    "timeYear": 728,
-    "dailyMinutesDown": {}
+    "time": 689,
+    "timeDay": 731,
+    "timeWeek": 689,
+    "timeMonth": 689,
+    "timeYear": 689,
+    "dailyMinutesDown": {
+      "2024-11-02": 0
+    }
   },
   {
     "name": "Uptime",

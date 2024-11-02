@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 185,
-    "timeWeek": 185,
-    "timeMonth": 185,
-    "timeYear": 185,
+    "time": 173,
+    "timeDay": 173,
+    "timeWeek": 173,
+    "timeMonth": 173,
+    "timeYear": 173,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pi-hole",
     "status": "up",
-    "uptime": "94.39%",
-    "uptimeDay": "94.39%",
-    "uptimeWeek": "94.39%",
-    "uptimeMonth": "94.39%",
-    "uptimeYear": "94.39%",
-    "time": 702,
-    "timeDay": 702,
-    "timeWeek": 702,
-    "timeMonth": 702,
-    "timeYear": 702,
-    "dailyMinutesDown": {
-      "2024-11-01": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 728,
+    "timeDay": 728,
+    "timeWeek": 728,
+    "timeMonth": 728,
+    "timeYear": 728,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Uptime",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 156,
-    "timeWeek": 156,
-    "timeMonth": 156,
-    "timeYear": 156,
+    "time": 169,
+    "timeDay": 169,
+    "timeWeek": 169,
+    "timeMonth": 169,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   }
 ]

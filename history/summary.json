@@ -4,18 +4,20 @@
     "url": "$SERVICE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tyziniec-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 152,
-    "timeDay": 139,
-    "timeWeek": 176,
+    "timeDay": 143,
+    "timeWeek": 173,
     "timeMonth": 157,
     "timeYear": 152,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-07": 0
+    }
   },
   {
     "name": "Pi-hole",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pi-hole",
     "status": "down",
-    "uptime": "1.07%",
+    "uptime": "1.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "1.07%",
+    "uptimeYear": "1.06%",
     "time": 207,
     "timeDay": 135,
     "timeWeek": 140,
     "timeMonth": 130,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2025-02-07": 98,
+      "2025-02-07": 1342,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
@@ -139,17 +141,19 @@
     "url": "$SERVICE_3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "uptime",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 165,
-    "timeDay": 178,
-    "timeWeek": 205,
-    "timeMonth": 185,
-    "timeYear": 165,
-    "dailyMinutesDown": {}
+    "time": 164,
+    "timeDay": 136,
+    "timeWeek": 191,
+    "timeMonth": 183,
+    "timeYear": 164,
+    "dailyMinutesDown": {
+      "2025-02-07": 0
+    }
   }
 ]

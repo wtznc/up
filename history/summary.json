@@ -1,23 +1,39 @@
 [
   {
-    "name": "Lifestack",
+    "name": "Lifestack Landing",
     "url": "$SERVICE_4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "lifestack",
-    "status": "down",
+    "slug": "lifestack-landing",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 736,
-    "timeDay": 508,
-    "timeWeek": 758,
-    "timeMonth": 736,
-    "timeYear": 736,
-    "dailyMinutesDown": {
-      "2025-03-17": 0
-    }
+    "time": 603,
+    "timeDay": 603,
+    "timeWeek": 603,
+    "timeMonth": 603,
+    "timeYear": 603,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Lifestack App",
+    "url": "$SERVICE_5",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "lifestack-app",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1074,
+    "timeDay": 1074,
+    "timeWeek": 1074,
+    "timeMonth": 1074,
+    "timeYear": 1074,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pi-hole",
@@ -30,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "27.78%",
-    "time": 487,
-    "timeDay": 725,
-    "timeWeek": 894,
-    "timeMonth": 1051,
-    "timeYear": 487,
+    "time": 488,
+    "timeDay": 730,
+    "timeWeek": 874,
+    "timeMonth": 1044,
+    "timeYear": 488,
     "dailyMinutesDown": {
       "2025-03-05": 482,
       "2025-03-04": 68,
@@ -153,9 +169,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 152,
-    "timeDay": 159,
-    "timeWeek": 161,
-    "timeMonth": 160,
+    "timeDay": 181,
+    "timeWeek": 167,
+    "timeMonth": 161,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2025-02-07": 27
@@ -173,9 +189,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 168,
-    "timeDay": 173,
-    "timeWeek": 186,
-    "timeMonth": 181,
+    "timeDay": 149,
+    "timeWeek": 178,
+    "timeMonth": 179,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2025-02-07": 27

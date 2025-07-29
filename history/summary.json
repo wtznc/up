@@ -46,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pi-hole",
     "status": "up",
-    "uptime": "63.47%",
+    "uptime": "63.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "63.47%",
+    "uptimeYear": "63.57%",
     "time": 1853,
     "timeDay": 5804,
     "timeWeek": 6066,
@@ -169,9 +169,9 @@
     "url": "$SERVICE_2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tyziniec-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -181,6 +181,7 @@
     "timeMonth": 162,
     "timeYear": 148,
     "dailyMinutesDown": {
+      "2025-07-29": 0,
       "2025-02-07": 27
     }
   },
